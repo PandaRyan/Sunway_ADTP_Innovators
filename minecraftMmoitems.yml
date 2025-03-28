@@ -1,0 +1,30 @@
+BONY_AXE4:
+  base:
+    material: IRON_AXE
+    name: '&8&lBo&7&lny &f&LAxe &b&l[TIER COMPLETE]'
+    required-level: 15.0
+    attack-damage: 11.0
+    attack-speed: 1.8
+    required-class:
+    - Paladin
+    - Gladilator
+    - Shielder
+    - Wielder
+    - Tank	
+    disable-crafting: true
+    critical-strike-chance: 13.0
+    max-health: 16.0
+    max-durability: 680.0
+    item-particles:
+      type: DOUBLE_RINGS
+      particle: WHITE_ASH
+      amount: 2.0
+    undead-damage: 12.0
+    element:
+      water:
+        damage: 12.0
+      thunder:
+        damage: 3.0
+    gem-sockets:
+    - uncoloured
+    custom-model-data: 5
