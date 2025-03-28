@@ -1,0 +1,25 @@
+BERYLNIUM_AXE1:
+  base:
+    material: IRON_AXE
+    name: '&4&lBeryln&c&lium &f&lAxe &e&l[TIER 1]'
+    required-level: 1.0
+    attack-damage: 6.0
+    attack-speed: 1.8
+    required-class:
+    - Paladin
+    - Gladilator
+    - Shielder
+    - Wielder
+    - Tank	
+    disable-crafting: true
+    critical-strike-chance: 6.0
+    max-health: 3.0
+    max-durability: 200.0
+    disable-smelting: true
+    gem-sockets:
+    - red
+    element:
+      fire:
+        damage: 3.0
+    health-regeneration: 0.5
+    custom-model-data: 3
